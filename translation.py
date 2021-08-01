@@ -8,6 +8,8 @@ class Translation(object):
 I'am a url to telegram file or media uploader bot with permanent thumbnail support.</b>
 
 <i>For More Details check Help 📜</i>
+
+<b>Maintained By:</b> <a href='https://t.me/VKPROJECTS'>Vivek ⚡</a> 🧘‍♂️
 """
     HELP_TEXT = """
 <b>Link to Media or File</b>
